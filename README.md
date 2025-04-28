@@ -49,7 +49,7 @@ Tento workshop vás provede základními principy práce s "GitHub Flow" a CI/CD
    git clone https://github.com/janblahacgi/vsb-vmswv-workshop-01.git
    ```
 
-2. Vytvořte si nový repozitář na svém GitHub účtu (bez inicializace README). Pro bezplatnou verzi GitHub musí být repozitář vytvořen jako veřejný, aby bylo možno využívat gh-pages.
+2. Vytvořte si nový repozitář na svém GitHub účtu (bez inicializace READMEsd). Pro bezplatnou verzi GitHub musí být repozitář vytvořen jako veřejný, aby bylo možno využívat gh-pages.
 
 3. Změňte vzdálený repozitář (remote) na váš nový repozitář:
 
