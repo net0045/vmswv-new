@@ -61,7 +61,7 @@ Tento workshop vás provede základními principy práce s "GitHub Flow" a CI/CD
 
 ### 1.2.2. Nastavení GitHub Pages
 
-1. Přejděte do nastavení vašeho repozitáře na GitHubu (Settings).
+1. Přejděte do nastavení vašeho repozitáře na GitHubu (Settings)kldls.
 2. Vyberte záložku "Pages" v levém menu.
 3. V sekci "Build and deployment":
    - Source: Nastavte "Deploy from a branch"
